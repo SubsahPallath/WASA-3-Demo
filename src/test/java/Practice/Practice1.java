@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 			System.out.println("HHHHHHH conflict");
 			
-			System.err.println("Test branch");
+			System.out.println("Test branch");
 
 		}
 
